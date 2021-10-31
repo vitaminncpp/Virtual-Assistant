@@ -1,0 +1,1 @@
+python "C:\Users\Akshay\Documents\PycharmProjects\Voice Assistant\Main.py"
