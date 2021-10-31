@@ -19,6 +19,7 @@ it will install all files under directory "D:\Voice Assistant"
 	searh on google about something
 	etc
 
-## to start in background click on start_background file
-## to start in foreground click on start_foreground file
-## to stop click on stop
+## to start in background click on start_background.bat
+## to start in foreground click on start_foreground.bat
+## to stop click on stop.bat
+## install.bat will automatically copy the shortcut to startup folder so that it will start automatically on window startup.
